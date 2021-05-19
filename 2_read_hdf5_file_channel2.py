@@ -61,13 +61,13 @@ for i in my_list:
     first_ch2 = channel2
 
 
-    np.save('channel1.npy', channel1)                # save
+    np.save('channel2.npy', channel2)                # save
     print("i: ",i)                                            # output: T00000000,T00000001, ... ,T00000474          
     
     """
     # save numpy array as csv file
-    channel1 = asarray(channel1)
-    savetxt(("channel1_1.csv"), channel1.real + channel1.imag, delimiter=',')
+    channel2 = asarray(channel2)
+    savetxt(("channel1_1.csv"), channel2.real + channel2.imag, delimiter=',')
     savetxt(("channel2_1.csv"), channel2.real + channel2.imag, delimiter=',')
     """
-print(channel1.shape)
+print(channel2.shape)
