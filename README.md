@@ -1,6 +1,6 @@
 # RADAR-PLOTTER
 
-This project aims to analyzing and plotting the 'aspirlLab_00000001.h5' file, which contains radar data, by means of the python programming language.
+This project aims to analyzing and plotting the 'aspirlLab_00000001.h5' file, which contains a RADAR data, by means of the python programming language.
 
 
 ABOUT HDF5
