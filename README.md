@@ -19,5 +19,4 @@ Our HDF5 file contains 475 datasets (T00000000, T00000001, ..... T00000474) and 
 
 The following .png file was obtained by plotting the 'aspirlLab_00000001.h5' file.
 
-![radar_plotter_final](https://user-images.githubusercontent.com/52501795/118411989-282d1d80-b6a0-11eb-9b2a-a01eca2cdcf4.PNG)
-
+![Screenshot from 2021-06-07 22-39-40](https://user-images.githubusercontent.com/52501795/121057820-5ba72780-c7c8-11eb-918d-4ddfb9384d34.png)
